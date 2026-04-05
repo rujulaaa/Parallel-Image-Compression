@@ -1,6 +1,6 @@
 # Parallel Image Compression
 
-A high-performance image compression system using **Discrete Cosine Transform (DCT)** with **OpenMP** parallelization, implemented in C++. Developed as part of CSE4001 — Parallel and Distributed Computing at VIT.
+A high-performance image compression system using **Discrete Cosine Transform (DCT)** with **OpenMP** parallelization, implemented in C++.
 
 ## Overview
 
